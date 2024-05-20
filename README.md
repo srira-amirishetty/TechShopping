@@ -27,3 +27,5 @@ Checkout process (shipping, payment method, etc)
 PayPal / credit card integration
 
 Database seeder (products & users)
+
+Hosted Link : https://techshop-gpw0.onrender.com/
