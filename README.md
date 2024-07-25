@@ -42,4 +42,3 @@ Hosted Link : https://techshop-gpw0.onrender.com/
 
 ![Screenshot (490)](https://github.com/user-attachments/assets/fb34c682-52eb-42d9-be02-0f4b9af86edf)
 
-![Screenshot (490)](https://github.com/user-attachments/assets/7503960f-1f73-4b1b-a3fc-86978f63c312)
